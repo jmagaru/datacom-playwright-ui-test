@@ -1,0 +1,21 @@
+{
+  "name": "datacom-playwright-ui-test",
+  "version": "1.0.0",
+  "description": "Sample Test Automation Scripts for UI runs  using Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmagaru/datacom-playwright-ui-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmagaru/datacom-playwright-ui-test/issues"
+  },
+  "homepage": "https://github.com/jmagaru/datacom-playwright-ui-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
